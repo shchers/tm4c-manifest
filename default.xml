@@ -8,7 +8,6 @@
            remote="github"
            sync-j="2" />
 
-  <project path="sw-ek-tm4c123gxl" name="shchers/sw-ek-tm4c123gxl" />
   <project path="lm4tools" name="utzig/lm4tools" />
 
 </manifest>
